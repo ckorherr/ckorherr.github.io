@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ckorherr/ckorherr.github.io#readme",
   "dependencies": {
-    "monaco-editor": "^0.33.0"
+    "monaco-editor": "^0.33.0",
+    "monaco-vscode-textmate-theme-test": "^1.0.5"
   }
 }
